@@ -1,6 +1,10 @@
 ### Hi there <img src="https://raw.githubusercontent.com/Hackebein/Hackebein/master/assets/wave.gif" style="max-width: 100%;" width="25" height="25">
 
+![](https://komarev.com/ghpvc/?username=DerHobbs)
+
 - 🔭 I’m currently working on Redm Server
+- 🌱 I’m currently learning...something you can never learn enough
+- ⚡ Fun fact: I never thought I would have my own repositories 😄
 
 <!--
 **DerHobbs/DerHobbs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

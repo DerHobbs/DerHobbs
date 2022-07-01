@@ -6,6 +6,10 @@
 - 🌱 I’m currently learning...something you can never learn enough
 - ⚡ Fun fact: I never thought I would have my own repositories 😄
 
+https://user-images.githubusercontent.com/101003021/176909419-c52d9f43-fa51-498a-994f-be9e6ec6df51.mp4
+
+
+
 <!--
 **DerHobbs/DerHobbs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

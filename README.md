@@ -6,6 +6,8 @@
 - 🌱 I’m currently learning...something you can never learn enough
 - ⚡ Fun fact: I never thought I would have my own repositories 😄
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DerHobbs)](https://github.com/anuraghazra/github-readme-stats)
+
 https://user-images.githubusercontent.com/101003021/176910225-45416303-b3a4-45f6-b4f1-2493ebdc7649.mp4
 
 <!--

@@ -2,11 +2,11 @@
 
 ![](https://komarev.com/ghpvc/?username=DerHobbs)
 
-[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://streamelements.com/derhobbs/tip)
-
 - 🔭 I’m currently working on Redm Server
 - 🌱 I’m currently learning...something you can never learn enough
 - ⚡ Fun fact: I never thought I would have my own repositories 😄
+
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://streamelements.com/derhobbs/tip)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DerHobbs)](https://github.com/anuraghazra/github-readme-stats)
 

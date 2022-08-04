@@ -8,7 +8,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DerHobbs)](https://github.com/anuraghazra/github-readme-stats)
 
-https://user-images.githubusercontent.com/101003021/176910225-45416303-b3a4-45f6-b4f1-2493ebdc7649.mp4
 
 <!--
 **DerHobbs/DerHobbs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

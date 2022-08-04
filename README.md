@@ -8,7 +8,7 @@
 
 ![Hobbs GitHub stats](https://github-readme-stats.vercel.app/api?username=DerHobbs&show_icons=true&theme=dark)
 
-[![Hobbs wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Hobbs)](https://github.com/Hobbs/github-readme-stats)
+[![Hobbs wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=DerHobbs)](https://github.com/Hobbs/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DerHobbs&langs_count=8)](https://github.com/DerHobbs/github-readme-stats)
 

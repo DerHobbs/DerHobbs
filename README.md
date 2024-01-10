@@ -7,8 +7,6 @@
 - 🌱 I’m currently learning...something you can never learn enough
 - ⚡ Fun fact: I never thought I would have my own repositories 😄
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DerHobbs&langs_count=8)
-
 ![Hobbs GitHub stats](https://github-readme-stats.vercel.app/api?username=DerHobbs&show_icons=true&theme=dark)
 
 <!--

@@ -1,5 +1,5 @@
 ### Hi there <img src="https://raw.githubusercontent.com/Hackebein/Hackebein/master/assets/wave.gif" style="max-width: 100%;" width="25" height="25">
-*I've been here and programming since 2021 and have a lot of fun*
+*I've been here and programming... and have a lot of fun*
 
 [![Twitch Status](https://img.shields.io/twitch/status/derhobbs?style=for-the-badge&logo=twitch&logoColor=fff)](https://www.twitch.tv/derhobbs)
 

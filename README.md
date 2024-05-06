@@ -1,19 +1,6 @@
 ### Hi there <img src="https://raw.githubusercontent.com/Hackebein/Hackebein/master/assets/wave.gif" style="max-width: 100%;" width="25" height="25">
 *I've been here and programming... and have a lot of fun*
 
-[![Twitch Status](https://img.shields.io/twitch/status/derhobbs?style=for-the-badge&logo=twitch&logoColor=fff)](https://www.twitch.tv/derhobbs)
-
----
-
-### MY PROJECTS
-| [![Night Shift Studio](https://avatars.githubusercontent.com/u/114626586?s=100&v=4)<br />Night Shift Studio](https://night-shift-studio.com/)<br />REDM scripts |
-|:------:|
-
-| [![Rising Sun RP](https://cdn.discordapp.com/attachments/1070135840694607902/1194583713175052389/rsrp.png)<br />Rising Sun<br>Roleplay](https://discord.gg/risingsunrp/)<br />Premium Roleplay |
-|:------:|
-
----
-
 ### MY SKILLS & TOOLS
 ![Lua Badge](https://img.shields.io/badge/Lua-2C2D72?logo=lua&logoColor=fff&style=for-the-badge)
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-2C2D72?logo=javascript&logoColor=fff&style=for-the-badge)
@@ -58,14 +45,6 @@
 ![APIs Badge](https://img.shields.io/badge/There_is_an_API_for_it-000?style=for-the-badge)
 ![Self Organisation Badge](https://img.shields.io/badge/Self_Organisation-000?style=for-the-badge)
 ![Performance and efficiency Badge](https://img.shields.io/badge/Performance_%26_efficiency-000?style=for-the-badge)
-
----
-
-### MY CODE BUDDIES
-| [![systemNEO](https://cdn.discordapp.com/attachments/1070135840694607902/1194582093498421328/3120002.png)<br />systemNEO](https://github.com/systemNEO) |
-|:------:|
-
----
 
 - 🔭 I’m currently working on *MY PROJECTS*
 - 🌱 I’m currently learning...something you can never learn enough

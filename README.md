@@ -1,67 +1,106 @@
-### Hi there <img src="https://raw.githubusercontent.com/Hackebein/Hackebein/master/assets/wave.gif" style="max-width: 100%;" width="25" height="25">
-*I've been here and programming... and have a lot of fun*
+<div align="center">
 
-### MY SKILLS & TOOLS
-![Lua Badge](https://img.shields.io/badge/Lua-2C2D72?logo=lua&logoColor=fff&style=for-the-badge)
-![JavaScript Badge](https://img.shields.io/badge/JavaScript-2C2D72?logo=javascript&logoColor=fff&style=for-the-badge)
-![HTML5 Badge](https://img.shields.io/badge/HTML5-2C2D72?logo=html5&logoColor=fff&style=for-the-badge)
-![CSS3 Badge](https://img.shields.io/badge/CSS3-2C2D72?logo=css3&logoColor=fff&style=for-the-badge)
-![MySQL Badge](https://img.shields.io/badge/MySQL-2C2D72?style=for-the-badge&logo=mysql&logoColor=fff)
-![MariaDB Badge](https://img.shields.io/badge/MariaDB-2C2D72?style=for-the-badge&logo=microsoftsqlserver&logoColor=fff)
-![JSON Badge](https://img.shields.io/badge/JSON-2C2D72?style=for-the-badge&logo=json&logoColor=fff)
+# Hey, I’m DerHobbs 👋
 
-![Windows Badge](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=fff&style=for-the-badge)
-![Linux Badge](https://img.shields.io/badge/Linux-0078D6?logo=linux&logoColor=fff&style=for-the-badge)
+### RedM Developer, Lua Specialist, Full Stack Developer
 
-![Visual Studio Badge](https://img.shields.io/badge/Visual%20Studio-F05032?logo=visualstudio&logoColor=fff&style=for-the-badge)
-![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-F05032?logo=visualstudiocode&logoColor=fff&style=for-the-badge)
-![Git Badge](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=for-the-badge)
-![SQLite Badge](https://img.shields.io/badge/SQLite-F05032?logo=sqlite&logoColor=fff&style=for-the-badge)
-![MySQL Badge](https://img.shields.io/badge/MySQL-F05032?logo=mysql&logoColor=fff&style=for-the-badge)
-![MariaDB Badge](https://img.shields.io/badge/MariaDB-F05032?logo=mariadb&logoColor=fff&style=for-the-badge)
-![Docker Badge](https://img.shields.io/badge/Docker-F05032?logo=docker&logoColor=fff&style=for-the-badge)
-![Notepad++ Badge](https://img.shields.io/badge/Notepad%2B%2B-F05032?logo=notepadplusplus&logoColor=fff&style=for-the-badge)
-![Amazon AWS Badge](https://img.shields.io/badge/Amazon%20AWS-F05032?logo=amazonaws&logoColor=fff&style=for-the-badge)
-![PayPal Badge](https://img.shields.io/badge/PayPal-F05032?logo=paypal&logoColor=fff&style=for-the-badge)
+Creator of the **Hobbs** and **NSS** resource collections
 
-![Adobe Photoshop Badge](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?logo=adobephotoshop&logoColor=fff&style=for-the-badge)
-![Adobe Premiere Badge](https://img.shields.io/badge/Adobe%20Premiere-31A8FF?logo=adobepremierepro&logoColor=fff&style=for-the-badge)
-![Davinci Resolve Badge](https://img.shields.io/badge/Davinci%20Resolve-31A8FF?style=for-the-badge&logo=blackmagicdesign&logoColor=fff)
-![Microsoft Office Badge](https://img.shields.io/badge/Microsoft%20Office-31A8FF?logo=microsoft&logoColor=fff&style=for-the-badge)
-![Audacity Badge](https://img.shields.io/badge/Audacity-31A8FF?logo=audacity&logoColor=fff&style=for-the-badge)
-![GitKraken Badge](https://img.shields.io/badge/GitKraken-31A8FF?logo=gitkraken&logoColor=fff&style=for-the-badge)
+More than **130 original RedM resources**, built from concept to production
 
----
+<br>
 
-### MY PRINCIPLES
-![Somehow Badge](https://img.shields.io/badge/Somehow%20it%20will%20work-000?style=for-the-badge)
-![Clean Code Badge](https://img.shields.io/badge/Clean%20Code-000?style=for-the-badge)
-![Clean Architecture Badge](https://img.shields.io/badge/Clean%20Architecture-000?style=for-the-badge)
-![Design Patterns Badge](https://img.shields.io/badge/Design%20Patterns-000?style=for-the-badge)
-![Test Driven Development Badge](https://img.shields.io/badge/Test_Driven_Development-000?style=for-the-badge)
-![Responsive Webdesign Badge](https://img.shields.io/badge/Responsive_Webdesign-000?style=for-the-badge)
-![Test Automation Badge](https://img.shields.io/badge/Test_Automation-000?style=for-the-badge)
-![Code Style Guides Badge](https://img.shields.io/badge/Code_Style_Guides-000?style=for-the-badge)
-![APIs Badge](https://img.shields.io/badge/There_is_an_API_for_it-000?style=for-the-badge)
-![Self Organisation Badge](https://img.shields.io/badge/Self_Organisation-000?style=for-the-badge)
-![Performance and efficiency Badge](https://img.shields.io/badge/Performance_%26_efficiency-000?style=for-the-badge)
+![Lua](https://img.shields.io/badge/Lua-Expert-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+![RedM](https://img.shields.io/badge/RedM-Expert-8B0000?style=for-the-badge&logo=rockstargames&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-Advanced-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-Advanced-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-Advanced-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-- 🔭 I’m currently working on *MY PROJECTS*
-- 🌱 I’m currently learning...something you can never learn enough
-- ⚡ Fun fact: I never thought I would have my own repositories 😄
+</div>
 
----
-<!--
-**DerHobbs/DerHobbs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+I am an experienced developer with a strong focus on **RedM**, **Lua** and modern web development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Over the years, I have created more than 130 RedM resources under the **Hobbs** and **NSS** names. These projects range from small gameplay additions to complete systems with multiplayer synchronization, databases, custom interfaces and framework integrations.
+
+RedM is not just something I occasionally work with, it is the environment I know inside out.
+
+If something is possible in RedM, I have probably already built it, tested it, optimized it or spent an evening arguing with the responsible native.
+
+## My Expertise
+
+**RedM Development**
+
+Custom gameplay systems, multiplayer synchronization, State Bags, entity management, native integration, performance optimization, secure communication, framework integration
+
+**Lua Development**
+
+Modular architecture, reusable libraries, event systems, callbacks, configuration systems, server validation, database logic, resource optimization
+
+**Web Development**
+
+JavaScript, HTML, CSS, responsive design, NUI development, interactive interfaces, animations, frontend logic, secure data handling
+
+**Database Development**
+
+MySQL, MariaDB, SQLite, database design, migrations, persistent player data, optimized queries
+
+## The Hobbs Collection
+
+The Hobbs collection contains a wide range of original RedM resources, including banking, housing, crafting, companies, jobs, activities, multiplayer interactions, administration, notifications, inventories and complete user interfaces.
+
+Every resource represents practical experience with real gameplay, real players and the kind of bugs that only appear when somebody says, “I only pressed the button once.”
+
+## The NSS Collection
+
+The NSS collection includes shared libraries, reusable systems, interaction tools, player features, interface components and specialized gameplay resources.
+
+The goal behind NSS is simple, create solid foundations, reduce duplicated work and make future development faster, cleaner and more reliable.
+
+## Technologies
+
+<div align="center">
+
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+</div>
+
+## Tools
+
+<div align="center">
+
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+</div>
+
+## Development Principles
+
+Clean code, clear architecture, secure server logic, reliable multiplayer behavior, good performance, maintainable systems, consistent interfaces, practical solutions
+
+I believe good software should be understandable, dependable and built with purpose.
+
+Working on the first try is appreciated, understanding why it works is preferred.
+
+## Current Focus
+
+Creating and improving RedM resources, developing the Hobbs and NSS collections, building reliable multiplayer systems, refining performance and security, designing modern NUI experiences
+
+<div align="center">
+
+### Build it, test it, optimize it, restart the server, test it again
+
+*Because “it works on my client” is not a multiplayer test.*
+
+</div>

@@ -104,3 +104,6 @@ Creating and improving RedM resources, developing the Hobbs and NSS collections,
 *Because “it works on my client” is not a multiplayer test.*
 
 </div>
+
+[![Hobbs Afterdark: Roter Wüstenmond](https://github.com/user-attachments/assets/e93d6f5f-2ec3-4390-97da-279310ac2ff0)](https://hobbsafterdark.com/)
+

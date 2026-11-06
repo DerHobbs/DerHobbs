@@ -4,7 +4,7 @@
 
 ### RedM Developer, Lua Specialist, Full Stack Developer
 
-Creator of the **Hobbs** and **NSS** resource collections
+Creator of the **Hobbs** and **Hobbs Afterdark** resource collections
 
 More than **130 original RedM resources**, built from concept to production
 

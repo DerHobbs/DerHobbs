@@ -1,5 +1,3 @@
-
-https://github.com/user-attachments/assets/340eef58-be7f-4cf5-905f-db2787025add
 <div align="center">
 
 # Hey, I’m DerHobbs 👋
@@ -112,3 +110,7 @@ Creating and improving RedM resources, growing The Hobbs Collection and Hobbs Af
 *Because “it works on my client” is not a multiplayer test.*
 
 </div>
+
+
+https://github.com/user-attachments/assets/5aadf1a4-6527-47d3-b340-6b9b4251373d
+

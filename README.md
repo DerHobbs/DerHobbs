@@ -112,5 +112,6 @@ Creating and improving RedM resources, growing The Hobbs Collection and Hobbs Af
 *Because “it works on my client” is not a multiplayer test.*
 
 </div>
+https://github.com/user-attachments/assets/35e96763-d1b1-42d2-a7f7-09ce40483879
 
-Uploading Hobbs_Afterdark_Intro_final.mp4…
+

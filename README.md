@@ -1,3 +1,5 @@
+
+https://github.com/user-attachments/assets/340eef58-be7f-4cf5-905f-db2787025add
 <div align="center">
 
 # Hey, I’m DerHobbs 👋
@@ -111,5 +113,4 @@ Creating and improving RedM resources, growing The Hobbs Collection and Hobbs Af
 
 </div>
 
-[![Hobbs Afterdark: Roter Wüstenmond](https://github.com/user-attachments/assets/e93d6f5f-2ec3-4390-97da-279310ac2ff0)](https://hobbsafterdark.com/)
-
+Uploading Hobbs_Afterdark_Intro_final.mp4…

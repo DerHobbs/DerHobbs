@@ -4,9 +4,11 @@
 
 ### RedM Developer, Lua Specialist, Full Stack Developer
 
-Creator of the **Hobbs** and **Hobbs Afterdark** resource collections
+Founder of **Hobbs Afterdark** and creator of **The Hobbs Collection**
 
 More than **130 original RedM resources**, built from concept to production
+
+[Store](https://hobbsafterdark.com) · [Documentation](https://docs.hobbsafterdark.com) · [GitHub](https://github.com/Hobbs-Afterdark)
 
 <br>
 
@@ -22,7 +24,7 @@ More than **130 original RedM resources**, built from concept to production
 
 I am an experienced developer with a strong focus on **RedM**, **Lua** and modern web development.
 
-Over the years, I have created more than 130 RedM resources under the **Hobbs** and **NSS** names. These projects range from small gameplay additions to complete systems with multiplayer synchronization, databases, custom interfaces and framework integrations.
+Over the years, I have created more than 130 RedM resources under the **Hobbs** name, today released through **Hobbs Afterdark**. These projects range from small gameplay additions to complete systems with multiplayer synchronization, databases, custom interfaces and framework integrations.
 
 RedM is not just something I occasionally work with, it is the environment I know inside out.
 
@@ -46,17 +48,21 @@ JavaScript, HTML, CSS, responsive design, NUI development, interactive interface
 
 MySQL, MariaDB, SQLite, database design, migrations, persistent player data, optimized queries
 
+## Hobbs Afterdark
+
+**Hobbs Afterdark** is my RedM script store. Every resource is built for real servers, documented for server owners and maintained after release.
+
+- **Store:** [hobbsafterdark.com](https://hobbsafterdark.com)
+- **Documentation:** [docs.hobbsafterdark.com](https://docs.hobbsafterdark.com)
+- **GitHub:** [Hobbs-Afterdark](https://github.com/Hobbs-Afterdark)
+
 ## The Hobbs Collection
 
-The Hobbs collection contains a wide range of original RedM resources, including banking, housing, crafting, companies, jobs, activities, multiplayer interactions, administration, notifications, inventories and complete user interfaces.
+The Hobbs Collection contains a wide range of original RedM resources, including banking, housing, crafting, companies, jobs, activities, table games, multiplayer interactions, administration, notifications, inventories and complete user interfaces.
+
+At its core sit shared libraries, reusable systems, interaction tools and interface components. The goal is simple, create solid foundations, reduce duplicated work and make future development faster, cleaner and more reliable.
 
 Every resource represents practical experience with real gameplay, real players and the kind of bugs that only appear when somebody says, “I only pressed the button once.”
-
-## The NSS Collection
-
-The NSS collection includes shared libraries, reusable systems, interaction tools, player features, interface components and specialized gameplay resources.
-
-The goal behind NSS is simple, create solid foundations, reduce duplicated work and make future development faster, cleaner and more reliable.
 
 ## Technologies
 
@@ -95,7 +101,7 @@ Working on the first try is appreciated, understanding why it works is preferred
 
 ## Current Focus
 
-Creating and improving RedM resources, developing the Hobbs and NSS collections, building reliable multiplayer systems, refining performance and security, designing modern NUI experiences
+Creating and improving RedM resources, growing The Hobbs Collection and Hobbs Afterdark, building reliable multiplayer systems, refining performance and security, designing modern NUI experiences
 
 <div align="center">
 
